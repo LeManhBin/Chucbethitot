@@ -1,0 +1,44 @@
+
+.box{
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+    display: flex;
+    border: 5px solid white;
+}
+.box1{
+    background-color: red;
+    float: left;
+    
+}
+.box2{
+    background-color: aqua;
+    float: left;
+}
+.box3{
+    background-color: aquamarine;
+}
+.box4{
+    background-color: black;
+    float: left;
+}
+.box5{
+    background-color: blue;
+    float: left;
+}
+.box6{
+    background-color: bisque;
+    
+}
+.box7{
+    background-color: pink;
+    float: left;
+}
+.box8{
+    background-color: yellow;
+    float: left;
+}
+.box9{
+    background-color: brown;
+    float: left;
+}
